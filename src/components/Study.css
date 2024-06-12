@@ -1,0 +1,23 @@
+.sound-button {
+    font-size: 5rem;
+    color: white;
+    margin: 1rem;
+    width: 110px;
+    height: 130px;
+    background-color: #4158D0;
+    background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
+    border: 3px solid yellow;
+    border-radius: .3rem;
+}
+
+.study-title{
+    text-align: center;
+    font-size: 5rem;
+    color: #eaeaea;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 700;
+}
+
+.study-container{
+    text-align: center;
+}
